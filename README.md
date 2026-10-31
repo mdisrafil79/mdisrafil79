@@ -27,3 +27,30 @@ How I Can Help You:<br>
 📧 Email: israfilsonofyounus@gmail.com <br>
 📱 WhatsApp: +8801894182579
 
+💻 Technical Skills
+
+📚 Currently Learning
+YOUR LEARNING TOPIC 1
+YOUR LEARNING TOPIC 2
+YOUR LEARNING TOPIC 3
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdisrafil79&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</p>
+
+💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdisrafil79&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdisrafil79&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdisrafil79&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution graph" />
+</p>
