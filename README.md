@@ -5,7 +5,10 @@
     width="100%"
   />
 </p>
-<h1 align="center">Hi there 👋 I'm Israfil</h1>
+<div align="center">
+  <h1>Hi I'm Israfil 👋</h1>
+  <h2>Full-Stack Web Developer</h2>
+</div>
 
 <h2>About Me:</h2>
 I am a Full-Stack Web Developer dedicated to helping businesses and institutes solve digital challenges through responsive web development. <br> <br>
