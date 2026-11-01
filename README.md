@@ -76,28 +76,26 @@ How I Can Help You:<br>
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israfilsonofyounus@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801894182579)
 
-📚 Currently Learning
-YOUR LEARNING TOPIC 1
-YOUR LEARNING TOPIC 2
-YOUR LEARNING TOPIC 3
-
-📊 GitHub Statistics
+## 📊 GitHub Statistics & Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mdisrafil79&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mdisrafil79&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 </p>
 
-💻 Most Used Languages
+## 💻 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdisrafil79&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdisrafil79&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
-🔥 Contribution Streak
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdisrafil79&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=mdisrafil79&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
 
-📈 Contribution Graph
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdisrafil79&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdisrafil79&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
