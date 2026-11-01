@@ -10,6 +10,12 @@
   <h2>Full-Stack Web Developer</h2>
 </div>
 
+<div align="center">
+  
+  [![Role](https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-2563EB?style=for-the-badge&logo=devdotto&logoColor=white)](#)
+[![Focus](https://img.shields.io/badge/Focus-Web%20Development-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+</div>
+
 <h2>About Me:</h2>
 I am a Full-Stack Web Developer dedicated to helping businesses and institutes solve digital challenges through responsive web development. <br> <br>
 
@@ -36,7 +42,10 @@ How I Can Help You:<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend Development
 
@@ -55,6 +64,17 @@ How I Can Help You:<br>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](mdisrafil79)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](mdisrafil79)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](mdisrafil79)
+[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](mdisrafil79)
+[![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](YOUR_STACKOVERFLOW_URL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israfilsonofyounus@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801894182579)
 
 📚 Currently Learning
 YOUR LEARNING TOPIC 1
