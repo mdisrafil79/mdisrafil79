@@ -97,5 +97,9 @@ How I Can Help You:<br>
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdisrafil79&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://gh-heat.anishroy.com/api/mdisrafil79/svg?theme=blue&darkMode=true"
+    alt="MD Israfil GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
